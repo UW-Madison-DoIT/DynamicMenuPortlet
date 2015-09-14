@@ -10,7 +10,7 @@
     </div>
   </xsl:template>
   <xsl:template match="menus">
-    <ul data-role="listview">
+    <ul class="list-of-links" data-role="listview">
       <!-- skip parent menu_item; jump to first child menu_item -->
       <xsl:apply-templates select="menu/menu_item/children/menu_item"/>
     </ul>
