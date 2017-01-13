@@ -1,4 +1,7 @@
 
+[![No maintenance intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+**(This software product is abandonware.) Your Pull Request will likely be ignored.**
 
 ## Semantic versioning
 
