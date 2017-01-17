@@ -1,4 +1,8 @@
 
+[![No maintenance intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+**(This software product is abandonware.)**
+
 Portlet Name: DynamicMenuPortlet
 
 Version number: 1.0
